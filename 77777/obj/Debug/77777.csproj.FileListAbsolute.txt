@@ -1,0 +1,7 @@
+C:\215\77777\bin\Debug\77777.exe.config
+C:\215\77777\bin\Debug\77777.exe
+C:\215\77777\bin\Debug\77777.pdb
+C:\215\77777\obj\Debug\77777.csproj.AssemblyReference.cache
+C:\215\77777\obj\Debug\77777.csproj.CoreCompileInputs.cache
+C:\215\77777\obj\Debug\77777.exe
+C:\215\77777\obj\Debug\77777.pdb
